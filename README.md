@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 PROJETOS:
-- 💽🎵 Flashback - De volta aos Anos Dourados da Música [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
-- 🍓 Berry Bite - Tecnologia nas Estufas de Morango [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
-- 🍷 Wine Care - Tecnologia nas Vinícolas [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
+- 💽🎵 Flashback - De volta aos Anos Dourados da Música [...](https://github.com/Projeto-Individual-Flashback)
+- 🍓 Berry Bite - Tecnologia nas Estufas de Morango [...](https://github.com/BerryBite)
+- 🍷 Wine Care - Tecnologia nas Vinícolas [...](https://github.com/WineCare-Company)
