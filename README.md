@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
+- 🔭 I’m currently working on [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
