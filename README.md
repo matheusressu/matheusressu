@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 💽🎵 Projeto Flashback - De volta aos Anos Dourados da Música [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
-- 🍓 Projeto Berry Bite - Tecnologia nas Estufas de Morango [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
-- 🍷 Projeto Wine Care - Tecnologia nas Vinícolas [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
+- PROJETOS:
+- 💽🎵 Flashback - De volta aos Anos Dourados da Música [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
+- 🍓 Berry Bite - Tecnologia nas Estufas de Morango [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
+- 🍷 Wine Care - Tecnologia nas Vinícolas [...](https://github.com/Projeto-Individual-Flashback/flashback-site)
