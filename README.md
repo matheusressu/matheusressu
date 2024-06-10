@@ -1,4 +1,5 @@
-## Eai, Beleza? Aqui é o Matheus 👋
+## Eai, Beleza? Aqui é o Matheus👋
+## Cursando Análise e Desenvolvimento de Sistemas
 
 <!--
 **matheusressu/matheusressu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
