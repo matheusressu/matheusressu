@@ -19,3 +19,4 @@ PROJETOS:
 - 🎵 Flashback - De volta aos Anos Dourados da Música [...](https://github.com/Projeto-Individual-Flashback)
 - 🍓 Berry Bite - Tecnologia nas Estufas de Morango [...](https://github.com/BerryBite)
 - 🍷 Wine Care - Tecnologia nas Vinícolas [...](https://github.com/WineCare-Company)
+- 🃏 Sete and Half - Jogo do Sete Meio [...](https://github.com/matheusressu/sevenandhalf)
